@@ -11,3 +11,19 @@ console.log(accountId)
 "use strict";//treat all js code as newer version
 console.table([accountEmail,acpassword])//giving output in tabular format. good practice
  //mdn tc39 documentation 
+let name="shree" //string
+let age=18//number integer
+let isloggein=true//boolean
+null //standalone value n datatype
+//undefined
+let state;
+//output undefined
+let state1 =null
+//not zero empty 
+symbol //unique data type
+//object =>
+cosole.log(typeof("shree"))
+console.log(typeof null) //output=object
+console.log(typeof undefined)//output=.undefined
+
+
